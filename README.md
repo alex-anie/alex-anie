@@ -24,7 +24,7 @@ I enjoy turning ideas into real-world solutions—clean, secure, and maintainabl
 * **JavaScript (ES6+)**
 * **Vue.js** (Components, Directives, Props, Pinia/Vuex, Vue Router)
 * **Tailwind CSS**
-* **Blade Templates**
+* **Inertia.js**
 * **Responsive UI/UX Design**
 
 ---
