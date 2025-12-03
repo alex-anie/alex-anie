@@ -93,7 +93,7 @@ I enjoy turning ideas into real-world solutions—clean, secure, and maintainabl
 
 ## 📫 Connect With Me
 
-* **Twitter/X:** [https://twitter.com/](https://x.com/alexanie_)
+* **Twitter/X:** [https://x.com/](https://x.com/alexanie_)
 * **LinkedIn:** [https://linkedin.com/in/](https://www.linkedin.com/in/alexanie/)
 * **Portfolio:** Coming soon
 
